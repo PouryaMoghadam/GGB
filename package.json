@@ -1,6 +1,7 @@
 {
   "name": "GGB",
-  "version": "0.1.0",
+  "version": "1.3.0",
+  "lastUpdate" : "2020-01-09",
   "private": true,
   "dependencies": {
     "react": "^16.12.0",

@@ -1,4 +1,5 @@
 import React from 'react';
+import packagejson from '../package.json'
 import './App.css';
 import {dikshenedi} from './dikshenedi'
 
@@ -22,8 +23,8 @@ function App() {
                     }
                 </div>
                 <div className="app__version">
-                    <span>last update : 2020-01-07</span>
-                    <span>V1.2.0</span>
+                    <span>last update : {packagejson.lastUpdate}</span>
+                    <span>V{packagejson.version}</span>
                 </div>
             </div>
 

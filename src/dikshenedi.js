@@ -28,5 +28,17 @@ export const dikshenedi = [
         dik: 'GPTS',
         method: 'PO Management',
         desc: 'Golpa Project Terminator Session'
+    },
+    {
+        id: '6',
+        dik: 'GSWP',
+        method: 'PO Management',
+        desc: 'Golpa Square Wheels Project'
+    },
+    {
+        id: '7',
+        dik: 'RLTC',
+        method: 'Management Consult',
+        desc: 'Riaz Last Tech Command'
     }
 ];
